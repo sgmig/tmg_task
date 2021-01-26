@@ -37,6 +37,11 @@ Clustering tools. Functions are classes for text preprocessing and clustering. I
 The most important tool in this file is the class ClusterDecissionHelper. This class allows to perform KMeans with different numbers of clusters and compute 
 the silhouette score, inertia, or both. It can repeat the process several times, and analize the scores for the optimal suggesting and optimal value of K for KMeans. It also provides a rudimentary static method to automatically find elbows in graphs like inertia vs. number of clusters or for the plot of the singular values of each dimension obtain through SVD, based on maximizng the distances between the plotted curve and a straight line that goes through its ends.
 
+#### scrapping.ipynb
+Performs scrapping.
+This file was originally used for testing the scrapping functions. The functions in scraptools.py wer first developped here and then mover over. 
+The original function definitions were replaced by an import. 
+
 #### fit_clustering.ipynb
 This notebook takes textfiles corresponding to each site, and performs the following task
 * Eliminate texts that are too short or empty.
@@ -56,14 +61,11 @@ The second part takes the texts generated, cleans them, and then loads the vecto
 
 #### clustering_tests.ipynb
 
-This file was used for testing the data treatment and clustering process. Overall it performs the same tasks as fit_clustering.ipynb (except saving results and models), but it contains comments, plots, and other visualizations along the process. The functions of clustools.py were first developped in this notebook and then copied over, so the versions that remain in clustering_test.ipynb should be removed and replaced by imports instead.
+This file was used for testing the data treatment and clustering process. Overall it performs the same tasks as fit_clustering.ipynb (except saving results and models), but it contains comments, plots, and other visualizations along the process. The functions of clustools.py were first developped in this notebook and then copied over. Function definitions in this notebook were replaced by imports.
 This notebook is mainly useful for demonstration and discussion, and for preliminary analysis in order to choose hyperparameters. 
 For carrying out the training process once parameters have been chosen it is recomended to use the fit_clustering notebook instead.
 
 clusterting_test.ipynb could be expanded to include the classifications of new data once the model has been trained, and include analysis of the results. 
 
-#### scrapping_trials.ipynb
-
-This file was originally used for testing the scrapping functions. The functions in scraptools.py wer first developped here and then mover over. The definitions that remain in this notebook should be removed an replaced by imports. Although scrapping can be performmed with this notebook, it is better to use the first part of find_cluster_labels, as it imports the functions from scraptools.ipynb.
 
 
