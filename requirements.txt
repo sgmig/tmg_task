@@ -76,6 +76,7 @@ regex @ file:///tmp/build/80754af9/regex_1606772657907/work
 requests @ file:///tmp/build/80754af9/requests_1608241421344/work
 scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1598376882706/work
 scipy @ file:///tmp/build/80754af9/scipy_1597686620742/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
 Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
 six @ file:///tmp/build/80754af9/six_1605205313296/work
 soupsieve @ file:///tmp/build/80754af9/soupsieve_1607965878077/work
