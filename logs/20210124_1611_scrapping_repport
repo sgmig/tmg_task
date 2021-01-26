@@ -1,0 +1,68 @@
+51 requested.
+48 SUCCESFUL.
+3 FAILURES.
+====================
+ FAILED SITES 
+====================
+
+website
+Invalid URL 'website': No schema supplied. Perhaps you meant http://website?
+
+https://www.degso.com
+HTTPSConnectionPool(host='www.degso.com', port=443): Max retries exceeded with url: /?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Host&header=Upgrade-Insecure-Requests&header=User-Agent (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7399435950>, 'Connection to www.degso.com timed out. (connect timeout=2)'))
+
+https://www.mn-net.com
+HTTPSConnectionPool(host='www.mn-net.com', port=443): Max retries exceeded with url: /?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Host&header=Sec-Fetch-Dest&header=Sec-Fetch-Mode&header=Sec-Fetch-Site&header=Sec-Fetch-User&header=Upgrade-Insecure-Requests&header=User-Agent (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')))
+
+
+
+ SUCCESFUL REQUESTS 
+
+http://lumaquin.com
+http://www.ictsl.net
+https://barrocorestaurante.mx
+https://www.gummigoetz.de
+http://www.suppliersof.com
+https://www.aikolon.fi
+http://mikro-technik.com
+http://de.jointeflons.com
+https://hbc-system.com
+http://german.aiflon.com
+https://www.briskheat.com
+https://www.wmh-herion.de
+https://de.industrial-seals.com
+http://de.plasticptfe.com
+https://www.sandprofile.de
+http://de.techoseal.com
+http://www.minipack.us
+https://www.polyfluor.nl
+https://www.miprcorp.com
+http://www.atio.cz
+https://www.zse.de
+https://www.klinger-awschultze.de
+https://www.aerchs.com
+https://www.heckerwerke.de
+https://www.yachticon.de
+https://www.ahlstrom-munksjo.com
+http://de.rilsonindustry.com
+https://www.jowat.com
+https://www.bostik.com
+https://www.hufschmied.net
+https://www.schreiber-berlin.de
+https://www.stoeffl.at
+https://www.reinz-industrial.com
+https://www.klinger-international.com
+http://de.foam-silicone.com
+http://de.chinaomen.com
+http://www.sweere.net
+http://www.miac.com.br
+https://www.h-t-w.at
+http://poolcorp.info
+http://www.irizar-sat.com.br
+http://www.besseges-vtf.co.uk
+http://www.criscarreira.com
+https://www.hyspecs.co.nz
+https://www.kartelllabware.com
+https://www.millerwelds.com
+http://www.gre.es
+https://www.apimex.org

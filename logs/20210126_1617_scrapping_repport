@@ -1,0 +1,22 @@
+8 requested. 
+Scrapping took 1.16 min (69.53 s) 
+7 SUCCESFUL. 
+1 FAILURES. 
+====================
+ FAILED SITES 
+====================
+
+https://www.venuspipes.com
+HTTPSConnectionPool(host='www.venuspipes.com', port=443): Read timed out. (read timeout=5)
+
+
+
+ SUCCESFUL REQUESTS 
+
+https://www.techint.com/es
+http://nexco-sa.com.ar/
+https://murphyfinnedtubes.com/
+https://www.twmetals.com/
+https://www.tpsconstructora.com.ar/
+http://www.lomanegra.com.ar/
+https://www.ypf.com/

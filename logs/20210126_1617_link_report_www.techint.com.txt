@@ -1,0 +1,59 @@
+https://www.techint.com/es/es/carreras/supervisores-y-tecnicos/
+404 Client Error: Not Found for url: https://www.techint.com/es/es/carreras/supervisores-y-tecnicos/?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Host&header=Sec-Fetch-Dest&header=Sec-Fetch-Mode&header=Sec-Fetch-Site&header=Sec-Fetch-User&header=Upgrade-Insecure-Requests&header=User-Agent
+
+https://www.techint.com/es/es/carreras/jovenes-talentos/
+404 Client Error: Not Found for url: https://www.techint.com/es/es/carreras/jovenes-talentos/?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Connection&header=Host&header=TE&header=Upgrade-Insecure-Requests&header=User-Agent
+
+https://www.techint.com/es/en
+404 Client Error: Not Found for url: https://www.techint.com/es/en?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Host&header=Sec-Fetch-Dest&header=Sec-Fetch-Mode&header=Sec-Fetch-Site&header=Sec-Fetch-User&header=Upgrade-Insecure-Requests&header=User-Agent
+
+https://www.techint.com/es/es/carreras/profesionales/
+404 Client Error: Not Found for url: https://www.techint.com/es/es/carreras/profesionales/?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Host&header=Upgrade-Insecure-Requests&header=User-Agent
+
+https://www.techint.com/es/es/proveedores/
+404 Client Error: Not Found for url: https://www.techint.com/es/es/proveedores/?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Host&header=Upgrade-Insecure-Requests&header=User-Agent
+
+https://www.techint.com/es/es/terminos-y-condiciones/privacidad/
+404 Client Error: Not Found for url: https://www.techint.com/es/es/terminos-y-condiciones/privacidad/?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Host&header=Upgrade-Insecure-Requests&header=User-Agent
+
+https://www.techint.com/es/es/terminos-y-condiciones/
+404 Client Error: Not Found for url: https://www.techint.com/es/es/terminos-y-condiciones/?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Host&header=Sec-Fetch-Dest&header=Sec-Fetch-Mode&header=Sec-Fetch-Site&header=Sec-Fetch-User&header=Upgrade-Insecure-Requests&header=User-Agent
+
+https://www.techint.com/es/es/contacto/
+404 Client Error: Not Found for url: https://www.techint.com/es/es/contacto/?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Host&header=Upgrade-Insecure-Requests&header=User-Agent
+
+https://www.techint.com/es/es/que-hacemos/mercados/
+404 Client Error: Not Found for url: https://www.techint.com/es/es/que-hacemos/mercados/?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Connection&header=Host&header=TE&header=Upgrade-Insecure-Requests&header=User-Agent
+
+https://www.techint.com/es/es/que-hacemos/servicios/
+404 Client Error: Not Found for url: https://www.techint.com/es/es/que-hacemos/servicios/?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Host&header=Sec-Fetch-Dest&header=Sec-Fetch-Mode&header=Sec-Fetch-Site&header=Sec-Fetch-User&header=Upgrade-Insecure-Requests&header=User-Agent
+
+https://www.techint.com/es/es/que-hacemos/
+404 Client Error: Not Found for url: https://www.techint.com/es/es/que-hacemos/?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Host&header=Sec-Fetch-Dest&header=Sec-Fetch-Mode&header=Sec-Fetch-Site&header=Sec-Fetch-User&header=Upgrade-Insecure-Requests&header=User-Agent
+
+https://www.techint.com/es/es/prensa/noticias/
+404 Client Error: Not Found for url: https://www.techint.com/es/es/prensa/noticias/?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Host&header=Sec-Fetch-Dest&header=Sec-Fetch-Mode&header=Sec-Fetch-Site&header=Sec-Fetch-User&header=Upgrade-Insecure-Requests&header=User-Agent
+
+https://www.techint.com/es/es/carreras/
+404 Client Error: Not Found for url: https://www.techint.com/es/es/carreras/?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Host&header=Upgrade-Insecure-Requests&header=User-Agent
+
+https://www.techint.com/es/es/prensa/publicaciones/
+404 Client Error: Not Found for url: https://www.techint.com/es/es/prensa/publicaciones/?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Connection&header=Host&header=TE&header=Upgrade-Insecure-Requests&header=User-Agent
+
+https://www.techint.com/es/es/prensa/
+404 Client Error: Not Found for url: https://www.techint.com/es/es/prensa/?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Connection&header=Host&header=TE&header=Upgrade-Insecure-Requests&header=User-Agent
+
+https://www.techint.com/es/es/prensa/noticias/los-bronces-iv-nuevo-proyecto-en-chile--01282066421
+None: None
+
+https://www.techint.com/es/es/quienes-somos/etica-y-compliance/
+404 Client Error: Not Found for url: https://www.techint.com/es/es/quienes-somos/etica-y-compliance/?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Host&header=Upgrade-Insecure-Requests&header=User-Agent
+
+https://www.techint.com/es/es/quienes-somos/liderazgo/
+404 Client Error: Not Found for url: https://www.techint.com/es/es/quienes-somos/liderazgo/?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Host&header=Upgrade-Insecure-Requests&header=User-Agent
+
+https://www.techint.com/es/es/
+404 Client Error: Not Found for url: https://www.techint.com/es/es/?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Host&header=Upgrade-Insecure-Requests&header=User-Agent
+
+https://www.techint.com/es/es/nuestros-proyectos/fortin-de-piedra/
+404 Client Error: Not Found for url: https://www.techint.com/es/es/nuestros-proyectos/fortin-de-piedra/?header=Accept&header=Accept-Encoding&header=Accept-Language&header=Connection&header=Host&header=TE&header=Upgrade-Insecure-Requests&header=User-Agent

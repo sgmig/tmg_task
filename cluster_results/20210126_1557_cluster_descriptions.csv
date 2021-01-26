@@ -1,0 +1,15 @@
+,words,weights
+Cluster_0,"['welding', 'heating', 'kartell', 'united', 'hydraulic', 'repair', 'heaters', 'catalogue', 'weight', 'unit']","[0.05988965 0.05344678 0.05240736 0.04894646 0.04544744 0.04453625
+ 0.04406886 0.04029456 0.03585619 0.03395413]"
+Cluster_1,"['ptfe', 'blatt', 'pom', 'dichtung', 'dichtungen', 'kontaktieren', 'pfa', 'nylon', 'fep', 'verpackung']","[0.48084533 0.18652602 0.09923341 0.09203793 0.07796026 0.07696041
+ 0.07389774 0.07351249 0.07102775 0.06436194]"
+Cluster_2,"['daten', 'kib', 'datenschutz', 'mikro', 'facebook', 'unserer', 'technik', 'afm', 'impressum', 'google']","[0.08884629 0.06782117 0.05507314 0.05193893 0.05153032 0.04781916
+ 0.04654647 0.0455283  0.04453596 0.04222266]"
+Cluster_3,"['klinger', 'dichtungen', 'dichtung', 'gummi', 'skip', 'steam', 'repair', 'ptfe', 'metall', 'maquinaria']","[0.42738126 0.25294639 0.12635371 0.11033296 0.09802913 0.0817558
+ 0.07997058 0.07626413 0.07530576 0.0716682 ]"
+Cluster_4,"['gummi', 'dichtungen', 'metall', 'artikel', 'schläuche', 'kunststoffe', 'rudolf', 'agb', 'impressum', 'datenschutzerklärung']","[0.36825812 0.17803283 0.1548849  0.12787748 0.1172995  0.11314405
+ 0.11285072 0.09720476 0.09530388 0.08558914]"
+Cluster_5,"['agitador', 'feria', 'productos', 'vidrio', 'piscinas', 'datos', 'class', 'ensayo', 'soluciones', 'maquinaria']","[0.08927097 0.08081366 0.07771189 0.07736849 0.07464357 0.06958571
+ 0.06067727 0.06022117 0.05263862 0.05217388]"
+Cluster_6,"['adhesives', 'tape', 'lamination', 'bonding', 'icon', 'adhesive', 'packaging', 'ahlstrom', 'industry', 'back']","[0.22775195 0.18408337 0.14982353 0.11058902 0.10544636 0.09772638
+ 0.09140644 0.08976225 0.07527665 0.07522299]"
