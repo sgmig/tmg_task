@@ -306,7 +306,7 @@ def interpret_clusters(fitted_model, inv_vocabulary, reducer = None, n_words = 1
     #weights = {}
     cluster_dict = {}
     for i in range(centers.shape[0]):
-        vec = inversed_centers[i,:]
+        vec = centers[i,:]
         argsorted = np.argsort(vec)[::-1]
 
         cluster_dict[f'Cluster_{i}'] = {'words': [inv_vocab[i] for i in argsorted[:n_words]], 

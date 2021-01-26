@@ -340,7 +340,7 @@ def scrape_full(sites_list, contents_dir = None, logs_dir = None, max_links = 20
 
             # Create site contents file and write text of the main site
             domain = urlparse(site).netloc
-            file_name = CONTENTS_DIR + domain +'.txt'
+            file_name = contents_dir + domain +'.txt'
 
             with open(file_name, 'w') as f:
                 f.write(text)
