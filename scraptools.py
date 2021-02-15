@@ -342,7 +342,7 @@ def scrape_full(sites_list, contents_dir = None, logs_dir = None, max_links = 20
             domain = urlparse(site).netloc
             file_name = contents_dir + domain +'.txt'
 
-            with open(file_name, 'w') as f:
+            with open(file_name, 'w', encoding="utf-8") as f:
                 f.write(text)
 
             print(f'Text from main page {domain} written to {file_name}')
@@ -369,7 +369,7 @@ def scrape_full(sites_list, contents_dir = None, logs_dir = None, max_links = 20
             print(f'{len(link_errors)} links failed.')
 
             # Write link text to site file.
-            with open(file_name, 'a') as f:
+            with open(file_name, 'a', encoding="utf-8") as f:
                 f.write('\n'.join(text))
 
             # Log link errors only if more than half fail.
